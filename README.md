@@ -29,8 +29,8 @@ a simply single static page website.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github-code] (https://github.com/farazpc3/recipe-page-frontend-mentor)
+- Live Site URL: [github-page](https://farazpc3.github.io/recipe-page-frontend-mentor)
 
 ## My process
 
