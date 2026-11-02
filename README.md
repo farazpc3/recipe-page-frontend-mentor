@@ -59,7 +59,7 @@ I use AI but I hate just copy pasting stuff. I like to use it for asking questio
 ## Author
 
 - Website - [Mila](https://farazcv.vercel.app)
-- Frontend Mentor - [@farazpc3](https://www.https://www.frontendmentor.io/profile/farazpc3)
+- Frontend Mentor - [@farazpc3](https://www.frontendmentor.io/profile/farazpc3)
 
 ## Acknowledgments
 
